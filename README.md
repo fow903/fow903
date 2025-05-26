@@ -2,7 +2,7 @@
 
 ✨ Hello and welcome — every line of code is a step toward solving real problems with elegance and purpose.
 
-I'm Edwin — a passionate Software Engineer with over 7 years of experience building powerful systems across industries like ecommerce, communications, banking, and ERP. I specialize in creating **scalable, maintainable, and business-oriented software solutions**.
+I'm Edwin — a passionate Software Engineer with over 9 years of experience building powerful systems across industries like ecommerce, communications, banking, and ERP. I specialize in creating **scalable, maintainable, and business-oriented software solutions**.
 
 ---
 
